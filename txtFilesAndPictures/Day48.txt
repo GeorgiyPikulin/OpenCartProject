@@ -1,0 +1,26 @@
+Day-48
+---
+Jenkins
+----
+
+https://github.com/pavanoltraining/opencart_aug10.git
+
+maven
+git & github
+jenkins
+
+
+Jenkins Pipeline: 
+----------
+https://youtu.be/1ji_9scA2C4?list=PLUDwpEzHYYLtrdDyf3z-0fybtHNcqAdj5
+https://youtu.be/Ozna0MS5D1E?list=PLUDwpEzHYYLtrdDyf3z-0fybtHNcqAdj5
+
+
+Git tutorials
+-----
+https://www.youtube.com/watch?v=QKVarScQigI&list=PLUDwpEzHYYLuMNNTu0EdWBeBtXdRhj4Lv
+
+
+Maven Tutorials:
+----
+https://www.youtube.com/watch?v=-25Q76lnB50&list=PLUDwpEzHYYLs86hEjzJGWmrHjONOQJWJY

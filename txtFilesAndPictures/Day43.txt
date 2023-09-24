@@ -1,0 +1,20 @@
+Day-43
+----
+
+3) Run Tests on Desired Browser/Cross Browser/Parallel
+3.1: Create testng.xml file to Run Test Cases and parameterize browser name to BaseClass 
+→setup() method.
+3.2: Update BaseClass →setup() method, launch browser based on condition.
+3.3: Maintain separate xml to run tests multiple browsers parallelly.
+
+4) Read Common values from config.properties file.
+4.1: Add config.properties file under src/test/resoures.
+4.2: Update BaseClass →setup() method, add script to load config.properties file
+4.3: Replace hard coded values in Test Cases like url, username, password etc...
+
+5) Add Extent Reports to Project
+5.1: Create ExtentReportUtility utility class under utilities package.
+5.2: Add captureScreen() method in BaseClass
+5.3: Add ExtentReportUtility (Listener class) entry in testng.xml file.
+5.4: Make sure WebDriver is static in BaseClass, we refer same driver instance in 
+ExtentReportUtility

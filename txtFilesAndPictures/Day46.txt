@@ -1,0 +1,50 @@
+Day-46
+--------
+pom.xml
+command prompt
+
+git     github
+
+jenkins
+
+
+pom.xml
+-----
+dependencies
+plugins
+
+1) maven compiler plugin
+2) maven surefire plugin
+
+
+maven
+---
+1) plugin in eclipse
+2)  os
+
+https://maven.apache.org/download.cgi
+
+C:\apache-maven-3.8.6
+
+How to setup path & How to check path:
+------
+echo $PATH
+
+vim ~/.bash_profile
+  
+  add an entry..
+
+  	  export PATH=$PATH:/usr/local/apache-maven-3.8.6/bin
+
+source ~/.bash_profile
+
+echo $PATH
+
+Project location:   C:\Users\pavan\myworkspace\Aug19Batch\opencart_aug10
+
+
+Local repositoty( git)
+Remote/Global repository ( github)
+
+
+

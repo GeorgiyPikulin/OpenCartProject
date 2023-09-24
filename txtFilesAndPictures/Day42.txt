@@ -1,0 +1,8 @@
+All < Trace < Debug < Info < Warn < Error < Fatal < Off
+
+
+2) Adding logs to test case (log4j2)
+2.1: Add log4j2.xml file under src/test/resoures.
+2.2: Update BaseClass.
+2.3: Add log statements to AccountRegistrationTest.
+
